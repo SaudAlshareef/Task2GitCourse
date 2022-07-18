@@ -1,16 +1,4 @@
 # Task2GitCourse
 Working With Github
-# Read Me Sytax
-## Headings
-```
-#Biggest
-```
-#Biggest
-```
-###Smallest
-```
-###Smallest
-```
-** TEXT **
-```
-**Text**
+# README.md Sytax
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
